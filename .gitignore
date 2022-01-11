@@ -1,0 +1,6 @@
+#
+target/
+out/
+.idea/
+src/test
+tictac.iml
